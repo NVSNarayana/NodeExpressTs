@@ -1,0 +1,11 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ext": "ts,json",
+    "ignore": [
+        "*.test.ts",
+        "src/**/*.spec.ts"
+    ],
+    "delay": "3"
+}

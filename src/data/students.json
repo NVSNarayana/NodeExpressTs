@@ -1,0 +1,39 @@
+{
+    "students": [
+        {
+            "sno": 1,
+            "sname": "A",
+            "age": 25
+        },
+        {
+            "sno": 2,
+            "sname": "B",
+            "age": 35
+        },
+        {
+            "sno": 3,
+            "sname": "C",
+            "age": 45
+        },
+        {
+            "sno": 4,
+            "sname": "D",
+            "age": 55
+        },
+        {
+            "sno": 5,
+            "sname": "E",
+            "age": 26
+        },
+        {
+            "sno": 6,
+            "sname": "F",
+            "age": 27
+        },
+        {
+            "sno": 7,
+            "sname": "G",
+            "age": 28
+        }
+    ]
+}
